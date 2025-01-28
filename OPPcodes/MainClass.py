@@ -21,6 +21,6 @@ def main():
     polymorphism_example.display()
 
 
-# تشغيل الكود
+
 if __name__ == "__main__":
     main()
