@@ -16,7 +16,7 @@ def main():
     encapsulation_example.set_private_data("New private data")
     print(encapsulation_example.get_private_data())
 
-    # مثال على التعددية (Polymorphism)
+    
     polymorphism_example = PolymorphismExample()
     polymorphism_example.display()
 
